@@ -9,10 +9,14 @@
     "watch": "vue-cli-service serve"
   },
   "dependencies": {
+    "bootstrap": "^4.5.2",
     "core-js": "^3.6.5",
-    "vue": "^3.0.0-0"
+    "vue": "^3.0.0-0",
+    "vue-router": "^4.0.0-beta.9"
   },
   "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.3.0",
+    "@fullhuman/vue-cli-plugin-purgecss": "^2.2.0",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
@@ -24,6 +28,8 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
-    "eslint-plugin-vue": "^7.0.0-0"
+    "eslint-plugin-vue": "^7.0.0-0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.2"
   }
 }
