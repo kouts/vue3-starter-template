@@ -1,4 +1,14 @@
 # vue3-starter-template
+A single page app starter template created to easily bootstrap Vue.js 3 apps.
+
+**Features**
+- Vuex 4 for state management
+- Vue Router 4 for client-side routing
+- Bootstrap 4.5 for layout and styling
+- SCSS variables inside Vue components
+- Purgecss for eliminating unused CSS
+- Basic multiple layouts feature
+- ESLint standard config with vue3-recommended and some sensible defaults :relaxed:
 
 ## Project setup
 ```
