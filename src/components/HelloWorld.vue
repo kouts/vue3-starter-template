@@ -4,7 +4,8 @@
       <h1 class="msg">{{ msg }}</h1>
       <p>
         A project setup using vue-cli, created to easily scaffold new Vue.js projects.<br />
-        Find out more at <a class="custom" href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+        Find out more at
+        <a class="custom" href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
       </p>
     </div>
   </div>
@@ -19,11 +20,11 @@ export default {
       default: ''
     }
   }
-};
+}
 </script>
 
 <style lang="scss" scoped>
-  h1.msg {
-    color: $gray-900;
-  }
+h1.msg {
+  color: $gray-900;
+}
 </style>

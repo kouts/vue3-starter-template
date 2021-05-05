@@ -32,15 +32,15 @@ export default {
   data() {
     return {
       navbarExpanded: false
-    };
+    }
   },
   methods: {
     toggleNavbar() {
-      this.navbarExpanded = !this.navbarExpanded;
+      this.navbarExpanded = !this.navbarExpanded
     },
     collapseNavbar() {
-      this.navbarExpanded = false;
+      this.navbarExpanded = false
     }
   }
-};
+}
 </script>

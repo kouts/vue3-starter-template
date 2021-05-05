@@ -1,7 +1,7 @@
-import { createRouter, createWebHashHistory } from 'vue-router';
-import Home from '../views/Home.vue';
+import { createRouter, createWebHashHistory } from 'vue-router'
+import Home from '../views/Home.vue'
 
-const history = createWebHashHistory();
+const history = createWebHashHistory()
 const routes = [
   {
     path: '/',
@@ -22,11 +22,11 @@ const routes = [
       layout: 'default'
     }
   }
-];
+]
 const router = createRouter({
   linkActiveClass: 'active',
   history,
   routes
-});
+})
 
-export { router };
+export { router }
