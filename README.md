@@ -12,6 +12,7 @@ A single page app starter template created to easily bootstrap Vue.js 3 apps.
 [eslint-config-standard](https://github.com/standard/eslint-config-standard) 
 and `eslint:recommended` with sensible defaults :relaxed:
 - [Prettier](https://prettier.io/) for code formatting
+- Automated release workflow with [semantic-release](https://github.com/semantic-release/semantic-release)
 
 ## Project setup
 ```
