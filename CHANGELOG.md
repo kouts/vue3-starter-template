@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/kouts/vue3-starter-template/compare/v1.2.0...v1.2.1) (2022-04-29)
+
+
+### Bug Fixes
+
+* updated eslint config ([5a7b7f8](https://github.com/kouts/vue3-starter-template/commit/5a7b7f8aba058de23abf43f582cbe666ef47b904))
+
 # [1.2.0](https://github.com/kouts/vue3-starter-template/compare/v1.1.0...v1.2.0) (2022-04-29)
 
 
