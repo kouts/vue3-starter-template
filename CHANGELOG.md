@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/kouts/vue3-starter-template/compare/v1.2.1...v1.2.2) (2022-05-08)
+
+
+### Bug Fixes
+
+* removed unneeded div ([da5d927](https://github.com/kouts/vue3-starter-template/commit/da5d9276b875a37c262a79d3cbadb70684d8a2cd))
+
 ## [1.2.1](https://github.com/kouts/vue3-starter-template/compare/v1.2.0...v1.2.1) (2022-04-29)
 
 
