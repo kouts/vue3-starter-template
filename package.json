@@ -14,9 +14,9 @@
   "dependencies": {
     "axios": "^0.27.2",
     "bootstrap": "^4.6.1",
-    "core-js": "^3.22.3",
+    "core-js": "^3.22.4",
     "vue": "^3.2.33",
-    "vue-router": "^4.0.14",
+    "vue-router": "^4.0.15",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
@@ -30,7 +30,7 @@
     "@vue/compiler-sfc": "^3.2.33",
     "@vue/test-utils": "^2.0.0-rc.21",
     "@vue/vue3-jest": "^27.0.0",
-    "eslint": "^8.14.0",
+    "eslint": "^8.15.0",
     "eslint-config-kouts": "^2.1.2",
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-standard": "^17.0.0",
