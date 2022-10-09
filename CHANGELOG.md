@@ -1,3 +1,10 @@
+## [1.2.6](https://github.com/kouts/vue3-starter-template/compare/v1.2.5...v1.2.6) (2022-10-09)
+
+
+### Bug Fixes
+
+* updated pinia ([a598469](https://github.com/kouts/vue3-starter-template/commit/a598469b7c122121937332bdc80e65c3803750cd))
+
 ## [1.2.5](https://github.com/kouts/vue3-starter-template/compare/v1.2.4...v1.2.5) (2022-10-08)
 
 
